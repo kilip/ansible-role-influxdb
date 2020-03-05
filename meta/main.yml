@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: influxdb
   author: kilip
-  description: Ansible Role influxdb
+  description: Ansible Role InfluxDB
   company: DoyoLabs
   license: MIT
   min_ansible_version: 2.4
@@ -19,7 +19,6 @@ galaxy_info:
     versions:
     - buster
     - stretch
-
   galaxy_tags: []
 
 dependencies: []
